@@ -1,4 +1,4 @@
-# VBA LineBetweenBlocks
+# LineBetweenBlocks Documentation
 This makro separates blocks of rows that have a different value in RelevantColumn for two adjacent rows. 
 
 Before

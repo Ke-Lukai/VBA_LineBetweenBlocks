@@ -1,4 +1,4 @@
-Attribute VB_Name = "Modul1"
+
 Sub DistinctCollection()
 
 Dim coll As Collection
@@ -26,6 +26,9 @@ For i = FirstRowData To LastRow
 Next i
 
 End Sub
+
+
+
 'Tests, whether entry is already in collection
 Function AlreadyInCollection(coll, i, RelevantColumnIndex) As Boolean
 Dim x As Integer

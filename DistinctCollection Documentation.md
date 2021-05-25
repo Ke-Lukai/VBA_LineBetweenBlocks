@@ -1,4 +1,4 @@
-DistinctCollection
+# DistinctCollection
 
 All distinct values in a specified row get stored in a collection for further use. 
 

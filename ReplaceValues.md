@@ -1,7 +1,6 @@
 # ReplaceValues Documentation
 
-The macro 
-
+For certain values in column B, the values in column C get substitutes, depending on the respective values in column C. 
 
 
 Before
